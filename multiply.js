@@ -2,6 +2,6 @@ const multiply = (a, b, c) => {
   return a * b * c
 }
 
-const weAreAdding = (t, l) => {
-  var a = t + l
+const add = (m, n) => {
+  return m * n
 }
